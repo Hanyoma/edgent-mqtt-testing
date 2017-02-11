@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/nick/Downloads/edgent-1.0.0/java8/lib/edgent.api.execution.jar"/>
+	<classpathentry kind="lib" path="/home/nick/Downloads/edgent-1.0.0/java8/lib/edgent.api.function.jar"/>
+	<classpathentry kind="lib" path="/home/nick/Downloads/edgent-1.0.0/java8/lib/edgent.api.graph.jar"/>
+	<classpathentry kind="lib" path="/home/nick/Downloads/edgent-1.0.0/java8/lib/edgent.api.oplet.jar"/>
+	<classpathentry kind="lib" path="/home/nick/Downloads/edgent-1.0.0/java8/lib/edgent.api.topology.jar"/>
+	<classpathentry kind="lib" path="/home/nick/Downloads/edgent-1.0.0/java8/lib/edgent.api.window.jar"/>
+	<classpathentry kind="lib" path="/home/nick/Downloads/edgent-1.0.0/java8/lib/edgent.providers.development.jar"/>
+	<classpathentry kind="lib" path="/home/nick/Downloads/edgent-1.0.0/java8/lib/edgent.providers.direct.jar"/>
+	<classpathentry kind="lib" path="/home/nick/Downloads/edgent-1.0.0/java8/lib/edgent.providers.iot.jar"/>
+	<classpathentry kind="lib" path="/home/nick/Downloads/edgent-1.0.0/java8/lib/edgent.runtime.appservice.jar"/>
+	<classpathentry kind="lib" path="/home/nick/Downloads/edgent-1.0.0/java8/lib/edgent.runtime.etiao.jar"/>
+	<classpathentry kind="lib" path="/home/nick/Downloads/edgent-1.0.0/java8/lib/edgent.runtime.jmxcontrol.jar"/>
+	<classpathentry kind="lib" path="/home/nick/Downloads/edgent-1.0.0/java8/lib/edgent.runtime.jobregistry.jar"/>
+	<classpathentry kind="lib" path="/home/nick/Downloads/edgent-1.0.0/java8/lib/edgent.runtime.jsoncontrol.jar"/>
+	<classpathentry kind="lib" path="/home/nick/Downloads/edgent-1.0.0/java8/lib/edgent.spi.graph.jar"/>
+	<classpathentry kind="lib" path="/home/nick/Downloads/edgent-1.0.0/java8/lib/edgent.spi.topology.jar"/>
+	<classpathentry kind="lib" path="/home/nick/Downloads/edgent-1.0.0/java8/connectors/mqtt/lib/edgent.connectors.mqtt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
